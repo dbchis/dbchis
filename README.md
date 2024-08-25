@@ -1,9 +1,7 @@
 # 💫About Me :
-👋 Hi, I'm Đặng Bá Chí, a software engineer specializing in back-end web development.
+👋 Hi, I'm Đặng Bá Chí
 
-💼 Currently, I'm focusing on developing web applications using PHP language and Laravel framework. My goal is to become an expert in this field and master the technology in the near future.
-
-🚀 I have experience and proficiency in programming languages such as C++, PHP, and Java, as well as frameworks like Laravel. With a passion for technology, I'm always updating and learning new technologies to enhance my skills.
+🚀 I have experience and proficiency in programming languages such as C++/C#, PHP, and Java. With a passion for technology, I'm always updating and learning new technologies to enhance my skills.
 
 🌱 I believe continuous learning is the key to success in the IT industry. My goal is to constantly improve myself and contribute to the development of the programming community.
 
